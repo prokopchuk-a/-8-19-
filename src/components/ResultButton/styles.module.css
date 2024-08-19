@@ -1,0 +1,21 @@
+.button {
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: rgba(195, 189, 187, 0.646);
+    font-size: 18px;
+    margin: 25px 0;
+  }
+
+  .buttonContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .sendingMessage {
+    min-height: 20px;
+    margin: 0;
+  }
